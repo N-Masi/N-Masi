@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me
+
+Hello! I'm an undergraduate at Brown University studying Computer Science + International and Public Affairs. My programming path began in middle school, and my current interests lie in leveraging LPWAN communication for personal use, machine learning, and holistically improving as an overall developer. I primarily use Java and Python, though I also have experience in webdev using React and HTML.
+
+------
+
+### Contact Info
+
+Feel free to reach out to me (he/him) at nicholas_masi@brown.edu
 
 <!--
 **N-Masi/N-Masi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
