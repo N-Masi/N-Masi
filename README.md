@@ -2,6 +2,8 @@
 
 Hello! I'm an undergraduate at Brown University studying Computer Science + International and Public Affairs. My programming path began in middle school, and my current interests lie in leveraging LPWAN communication for personal use, machine learning, and holistically improving as an overall developer. I primarily use Java and Python, though I also have experience in webdev using React and HTML.
 
+If you're looking to download programs I've made for the TI-Nspire calculator (all versions) click [here](https://n-masi.github.io)
+
 ------
 
 ### Contact Info
