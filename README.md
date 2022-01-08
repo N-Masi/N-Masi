@@ -1,26 +1,40 @@
-### About Me
+# _About Me_
 
-Hello! I'm an undergraduate at Brown University studying Computer Science + International and Public Affairs. My programming path began in middle school, and my current interests lie in leveraging LPWAN communication for personal use, machine learning, and holistically improving as an overall developer. I primarily use Java and Python, though I also have experience in webdev using React and HTML.
-
-If you're looking to download programs I've made for the TI-Nspire calculator (all versions) click [here](https://n-masi.github.io)
-
-------
+Hello! I'm an undergraduate at Brown University studying Computer Science + International and Public Affairs. My current interests lie in deep learning, leveraging LPWAN communication for personal use, and getting better at fullstack. I am most proficient in Python, Java, and React. Please find a portfolio of projects that I have worked on below.
 
 ### Contact Info
-
 Feel free to reach out to me (he/him) at nicholas_masi@brown.edu
 
-<!--
-**N-Masi/N-Masi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Portfolio
+* Projects on the Web:
+  * Fantasy Twitter
+  * Candivote
+  * TI-Nspire Program Repository
+* Projects with Demos:
+  * Binarized Neural Networks
+  * Tour de Thayer
+* Graphic Design Work:
+  * IAPA DUG Logo for Brown University
+  * Candivote Logo
+----
+# _Projects on the Web_
+* Fantasy Twitter
+* Candivote
+* TI-Nspire Program Repository
 
-Here are some ideas to get you started:
+## Fantasy Twitter
+* Tech Stack: Firebase (Realtime Database & Hosting), React, Python, Heroku, Twitter API v2
+* Link: https://fantasy-twitter.web.app
+* GitHub repo: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fantasy Twitter is ...
+
+This project was developed in part with the help of four others (X, Y, Z, ZZ). Through this I learned how to work as a part of a team of developers using GitHub for version control, Trello for task assignment and division of labor, and agile practices where we worked in sprints and built functionality around stakeholder feedback and user stories. My contributions to the project were ...
+
+----
+# Projects with Demos
+
+----
+# Graphic Design Work
+
+If you're looking to download programs I've made for the TI-Nspire calculator (all versions) click [here](https://n-masi.github.io)
