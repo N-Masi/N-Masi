@@ -22,7 +22,7 @@ Feel free to reach out to me (he/him) at nicholas_masi@brown.edu
 * [Candivote](#candivote)
 * [TI-Nspire Program Repository](#ti-nspire-program-repository)
 
-## Fantasy Twitter
+## _Fantasy Twitter_
 * Tech Stack: Firebase (Realtime Database & Hosting), React, Python, Heroku, Twitter API v2
 * Link: https://fantasy-twitter.web.app
 * GitHub repo: https://github.com/N-Masi/fantasy-twitter
@@ -40,7 +40,7 @@ This project was first worked on as an original group final project for CS 320 a
 
 Candivote is ... My contributions were primarily frontend, where I developed the whole dashboard using React and Material UI Kit to display live politician data from our Firestore database.
 
-## TI-Nspire Program Repository
+## _TI-Nspire Program Repository_
 * Tech Stack: TI-Basic, HTML, CSS, GitHub Pages
 * Link: https://n-masi.github.io/
 * GitHub repo: https://github.com/N-Masi/N-Masi.github.io
