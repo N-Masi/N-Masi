@@ -49,11 +49,11 @@ This project was first worked on as an original group final project for CS 320 a
 Candivote is ... My contributions were primarily frontend, where I developed the whole dashboard using React and Material UI Kit to display live politician data from our Firestore database.
 
 ## _TI-Nspire Program Repository_
-* Tech Stack: TI-Basic, HTML, CSS, GitHub Pages
+* Tech Stack: TI-Basic, HTML, GitHub Pages
 * Website link: https://n-masi.github.io/
 * GitHub repo: https://github.com/N-Masi/N-Masi.github.io
 
-This website hosts a repository of programs that I made for the TI-Nspire series of calculators. Programs are meant to help students extend the functionality of their calculators in the domains of statistics, geometry, and physics. The webiste contains instructions for getting the programs onto one's calculator to help the 100's of students who have visited the site.
+This website hosts a repository of programs that I made for the TI-Nspire series of calculators. Programs are meant to help students extend the functionality of their calculators in the domains of statistics, geometry, and physics. The website contains instructions for getting the programs onto one's calculator to help the 100's of students who have visited the site.
 
 ----
 # Graphic Design Work
