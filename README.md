@@ -6,13 +6,13 @@ Hello! I'm an undergraduate at Brown University studying Computer Science + Inte
 Feel free to reach out to me (he/him) at nicholas_masi@brown.edu
 
 ### Portfolio
-* Projects on the Web:
+* Tech Projects:
+  * Binarized Neural Networks
+  * ~~Tour de Thayer~~
+* Tech Projects on the Web:
   * [Fantasy Twitter](#fantasy-twitter)
   * [Candivote](#candivote)
   * [TI-Nspire Program Repository](#ti-nspire-program-repository)
-* Other Projects:
-  * Binarized Neural Networks
-  * Tour de Thayer
 * Graphic Design Work:
   * IAPA DUG Logo for Brown University
   * Candivote Logo
@@ -24,7 +24,7 @@ Feel free to reach out to me (he/him) at nicholas_masi@brown.edu
 
 ## _Fantasy Twitter_
 * Tech Stack: Firebase (Realtime Database & Hosting), React, Python, Heroku, Twitter API v2
-* Link: https://fantasy-twitter.web.app
+* Website link: https://fantasy-twitter.web.app
 * GitHub repo: https://github.com/N-Masi/fantasy-twitter
 
 Fantasy Twitter is Twitter turned into a fantasy sport. Users create accounts that are managed and kept secure with Firebase, and from there they can compete against other users in weekly matchups to have their teams get the most points. Teams are collections of Twitter accounts, where engagement on accounts' tweets that week (e.g., likes, replies, retweets) earns points. A Python script running on Heroku gets live data from the Twitter API every night to calculate scores and then updates a Firebase Realtime Database. Users can sign in to their accounts on the Firebase hosted website to check how their teams are doing; the React frontend displays data from the Realtime Database.
@@ -35,17 +35,17 @@ This project was first worked on as an original group final project for CS 320 a
 
 ## _Candivote_
 * Tech Stack: React, Cloud Firestore
-* Link:
+* Website link:
 * GitHub repo:
 
 Candivote is ... My contributions were primarily frontend, where I developed the whole dashboard using React and Material UI Kit to display live politician data from our Firestore database.
 
 ## _TI-Nspire Program Repository_
 * Tech Stack: TI-Basic, HTML, CSS, GitHub Pages
-* Link: https://n-masi.github.io/
+* Website link: https://n-masi.github.io/
 * GitHub repo: https://github.com/N-Masi/N-Masi.github.io
 
-This website hosts a repository of programs I have made for the TI-Nspire series of calculators. Programs are meant to help students extend the functionality of their calculators in the domains of statistics, geometry, and physics. The webiste contains instructions for getting the programs onto one's calculator to help the 100's of students who have visited the site.
+This website hosts a repository of programs that I made for the TI-Nspire series of calculators. Programs are meant to help students extend the functionality of their calculators in the domains of statistics, geometry, and physics. The webiste contains instructions for getting the programs onto one's calculator to help the 100's of students who have visited the site.
 
 ----
 # Other Projects
