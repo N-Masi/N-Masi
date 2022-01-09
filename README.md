@@ -22,10 +22,10 @@ Feel free to reach out to me (he/him) at nicholas_masi@brown.edu
 * [Binarized Neural Networks](#binarized-neural-networks)
 
 ## _Binarized Neural Networks_
-* Tech Stack: TensorFlow, Keras, Larq, Python, Google Colab
+* Tech Stack: TensorFlow, TFLite, Keras, Larq, Python, Google Colab
 * Colab Notebook: https://colab.research.google.com/drive/134v2cLDpJmyAAC5no365x9ibZGZXgEDn?usp=sharing
 
-This was an original final project for CS 1470 where I worked with (X) to design an experiment comparing the accuracy and memory usage of binarized neural networks (BNNs) versus their full-precision counterparts. I wrote all of the code in the Colab notebook to carry out our experimental design. In doing so, I became better at best practices of using TensorFlow and Keras for creating neural networks. I also deepened my understanding of BNNs (networks where all the weights and activations are either 1 or -1) in using the Larq library to implement them.
+This was an original final project for CS 1470 where I worked with (X) to design an experiment comparing the accuracy and memory usage of binarized neural networks (BNNs) versus their full-precision counterparts. I wrote all of the code in the Colab notebook to carry out our experimental design. In doing so, I became better at best practices of using TensorFlow and Keras for creating neural networks. I used the TFLite Analyzer to compare serialized model file size to assess memory usage. I also deepened my understanding of BNNs (networks where all the weights and activations are either 1 or -1) by using the Larq library to implement them.
 
 <br />
 
