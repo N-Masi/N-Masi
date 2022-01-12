@@ -1,7 +1,6 @@
 # Portfolio
 * Tech Projects:
   * [Binarized Neural Networks](#binarized-neural-networks)
-  * ~~Tour de Thayer~~
 * Tech Projects on the Web:
   * [Fantasy Twitter](#fantasy-twitter)
   * [Candivote](#candivote)
@@ -39,14 +38,12 @@ Fantasy Twitter is Twitter turned into a fantasy sport. Users create accounts th
 
 This project was first worked on as an original group final project for CS 320 alongside four other developers (Jeffrey Dai, Ben Duong, India Gold-Coren, and Grace Dorantes). After I came up with and brought the project idea to the group, we worked together to build it guided by stakeholder feedback. Through this I learned how to work as a part of a team of developers using GitHub for version control, Trello for task assignment and division of labor, and agile practices where we worked in sprints and built functionality around user stories. My contributions to the project were: updating our database with info from Twitter API calls via a Python script, displaying the appropriate data on the frontend for a signed in user, refactoring React class components into functional components, and creating the game design and algorithms. Since the conclusion of the class I have continued to develop the website by myself where I deployed the Python script to Heroku, improved the frontend UI, and fleshed out the backend to take it from a class project to a functioning website.
 
-< INSERT THREE IMAGES HORIZONTALLY LINED UP: SIGN IN PAGE / HOME PAGE / TEAM PAGE >
-
 ## _Candivote_
 * Tech Stack: React, Cloud Firestore
-* Website link:
-* GitHub repo:
+* Website link: https://dev.candivote.org/dashboard
+* GitHub repo: private :(
 
-Candivote is ... My contributions were primarily frontend, where I developed the whole dashboard using React and Material UI Kit to display live politician data from our Firestore database.
+Candivote is a platform for improving local politics by helping inform constituents on candidates' policies before voting. My contributions were primarily frontend, where I developed the whole dashboard using React and Material UI Kit to display live politician data from our Firestore database. Backend help from [luciengaitskell](https://github.com/luciengaitskell).
 
 ## _TI-Nspire Program Repository_
 * Tech Stack: TI-Basic, HTML, GitHub Pages
