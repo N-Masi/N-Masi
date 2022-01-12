@@ -56,7 +56,7 @@ This website hosts a repository of programs that I made for the TI-Nspire series
 * [IAPA DUG logo for Brown University](#iapa-dug-logo-for-brown-university)
 
 ## _IAPA DUG logo for Brown University_
-<img src="https://ci4.googleusercontent.com/proxy/A7z_qdyYRAU2W1c5sLi2HkJGlrXAnB8JgjzKpLdIVwItiGM7JGz5S4731hTekc6LJBvcdb0RVwj2O40BRUv6gRJWIGPEbXA_glTTcQpHJALV7e52uMwDXo07I1VKydf9EqTR7JR5MPWoScozU-axDI5Ck2TYXw=s0-d-e1-ft#https://mcusercontent.com/81743a55a6757cf1787ec536c/images/be0db7b6-c5a2-44ae-91b9-4a537ad29f44.png" alt="alt text" width="200" height="250" />
+<img src="https://ci4.googleusercontent.com/proxy/A7z_qdyYRAU2W1c5sLi2HkJGlrXAnB8JgjzKpLdIVwItiGM7JGz5S4731hTekc6LJBvcdb0RVwj2O40BRUv6gRJWIGPEbXA_glTTcQpHJALV7e52uMwDXo07I1VKydf9EqTR7JR5MPWoScozU-axDI5Ck2TYXw=s0-d-e1-ft#https://mcusercontent.com/81743a55a6757cf1787ec536c/images/be0db7b6-c5a2-44ae-91b9-4a537ad29f44.png" alt="IAPA in bold red letters, stylized with I and A on top and P and A on bottom forming a trapezoid" width="200" height="250" />
 USE: Branding of the Departmental Undergraduate Group for the International and Public Affairs major at Brown University.
 
 DESIGN NOTES: Inspired by the logos of the Institute's previous and now deprecated majors.
