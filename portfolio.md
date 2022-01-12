@@ -54,3 +54,5 @@ This website hosts a repository of programs that I made for the TI-Nspire series
 
 ----
 # Graphic Design Work
+
+![IAPA DUG logo for Brown University's Watson Institute](https://ci4.googleusercontent.com/proxy/A7z_qdyYRAU2W1c5sLi2HkJGlrXAnB8JgjzKpLdIVwItiGM7JGz5S4731hTekc6LJBvcdb0RVwj2O40BRUv6gRJWIGPEbXA_glTTcQpHJALV7e52uMwDXo07I1VKydf9EqTR7JR5MPWoScozU-axDI5Ck2TYXw=s0-d-e1-ft#https://mcusercontent.com/81743a55a6757cf1787ec536c/images/be0db7b6-c5a2-44ae-91b9-4a537ad29f44.png)
