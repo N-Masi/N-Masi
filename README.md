@@ -10,4 +10,6 @@ Please go [here](https://github.com/N-Masi/N-Masi/blob/main/portfolio.md) to vie
 
 ----
 
+<!---
 [![N-Masi's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Masi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
